@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
+<body>
 <a-scene>
   <a-sky src="https://alisonroller.github.io/marc-markstein-if4wsNq145o-unsplash.jpg" rotation="0 -130 0"></a-sky>
 </a-scene>
+</body>
 </html>
