@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-<p>
 <a-scene>
   <a-sky src="https://alisonroller.github.io/marc-markstein-if4wsNq145o-unsplash.jpg" rotation="0 -130 0"></a-sky>
 </a-scene>
-</p>
-</script>
-</body>
 </html>
